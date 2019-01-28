@@ -1,0 +1,16 @@
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\bin\Debug\TestGenericList.dll
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\bin\Debug\TestGenericList.pdb
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\bin\Debug\ADT.dll
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\bin\Debug\ADT.pdb
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\obj\Debug\TestGenericList.csprojAssemblyReference.cache
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\obj\Debug\TestGenericList.csproj.CoreCompileInputs.cache
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\obj\Debug\TestGenericList.csproj.CopyComplete
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\obj\Debug\TestGenericList.dll
+C:\Users\RKD\Repo\Ex46-GenericLinkedList\TestGenericList\obj\Debug\TestGenericList.pdb
