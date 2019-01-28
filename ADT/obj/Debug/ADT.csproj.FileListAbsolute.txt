@@ -1,0 +1,6 @@
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex46-GenericLinkedList\GenericLinkedList\ADT\bin\Debug\ADT.dll
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex46-GenericLinkedList\GenericLinkedList\ADT\bin\Debug\ADT.pdb
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex46-GenericLinkedList\GenericLinkedList\ADT\obj\Debug\ADT.csprojAssemblyReference.cache
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex46-GenericLinkedList\GenericLinkedList\ADT\obj\Debug\ADT.csproj.CoreCompileInputs.cache
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex46-GenericLinkedList\GenericLinkedList\ADT\obj\Debug\ADT.dll
+C:\Users\jbro\Dropbox\EAL\Undervisning\2018-2019\1 - Programmering\Ex46-GenericLinkedList\GenericLinkedList\ADT\obj\Debug\ADT.pdb
