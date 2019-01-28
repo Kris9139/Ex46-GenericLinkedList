@@ -1,0 +1,7 @@
+C:\Users\Kristian-Kastrup\source\repos\ex32-linkedlist\ex32-linkedlist\bin\Debug\ex32-linkedlist.exe.config
+C:\Users\Kristian-Kastrup\source\repos\ex32-linkedlist\ex32-linkedlist\bin\Debug\ex32-linkedlist.exe
+C:\Users\Kristian-Kastrup\source\repos\ex32-linkedlist\ex32-linkedlist\bin\Debug\ex32-linkedlist.pdb
+C:\Users\Kristian-Kastrup\source\repos\ex32-linkedlist\ex32-linkedlist\obj\Debug\ex32-linkedlist.csprojAssemblyReference.cache
+C:\Users\Kristian-Kastrup\source\repos\ex32-linkedlist\ex32-linkedlist\obj\Debug\ex32-linkedlist.csproj.CoreCompileInputs.cache
+C:\Users\Kristian-Kastrup\source\repos\ex32-linkedlist\ex32-linkedlist\obj\Debug\ex32-linkedlist.exe
+C:\Users\Kristian-Kastrup\source\repos\ex32-linkedlist\ex32-linkedlist\obj\Debug\ex32-linkedlist.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kristian-Kastrup\source\repos\ex32-linkedlist\Adt\bin\Debug\Adt.dll
+C:\Users\Kristian-Kastrup\source\repos\ex32-linkedlist\Adt\bin\Debug\Adt.pdb
+C:\Users\Kristian-Kastrup\source\repos\ex32-linkedlist\Adt\obj\Debug\Adt.csprojAssemblyReference.cache
+C:\Users\Kristian-Kastrup\source\repos\ex32-linkedlist\Adt\obj\Debug\Adt.csproj.CoreCompileInputs.cache
+C:\Users\Kristian-Kastrup\source\repos\ex32-linkedlist\Adt\obj\Debug\Adt.dll
+C:\Users\Kristian-Kastrup\source\repos\ex32-linkedlist\Adt\obj\Debug\Adt.pdb
